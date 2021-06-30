@@ -6,6 +6,8 @@
     + 机器学习模型部署
         + tornado框架部署
             + lightgbm模型
+		+ flask框架部署
+			+ tensorflow模型
     + tensorflow部署
         + 跨语言API方式
             + client_api
